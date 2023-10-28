@@ -1,0 +1,8 @@
+rsbd.py
+setup.py
+rsbd.egg-info/PKG-INFO
+rsbd.egg-info/SOURCES.txt
+rsbd.egg-info/dependency_links.txt
+rsbd.egg-info/entry_points.txt
+rsbd.egg-info/requires.txt
+rsbd.egg-info/top_level.txt
