@@ -1,14 +1,15 @@
 from setuptools import setup
 
 setup(
-    name = 'rsbd',
+    name = 'pv',
     version = '0.1',
-    py_modules = ['rsbd'],
+    py_modules = ['pv'],
     install_requires = [
         'Click',
     ],
     entry_points = '''
     [console_scripts]
-    rsbd=rsbd:cli
+    pv=pv:cli
 '''
 )
+'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'  
